@@ -1,5 +1,5 @@
 
-# coding: utf-8
+
 
 # # 2016 US Bike Share Activity Snapshot
 
